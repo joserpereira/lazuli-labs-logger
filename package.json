@@ -1,0 +1,27 @@
+{
+  "name": "@joserpereira/lazuli-labs-logger",
+  "version": "1.0.0",
+  "description": "Logger base on pino",
+  "main": "logger.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joserpereira/lazuli-labs-logger.git"
+  },
+  "author": "Jose Pereira <jose.g.pereira@gmail.com> (https://lazulilabs.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joserpereira/lazuli-labs-logger/issues"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "homepage": "https://github.com/joserpereira/lazuli-labs-logger#readme",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.0.1",
+    "pino": "^9.5.0"
+  }
+}
